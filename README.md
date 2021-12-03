@@ -9,4 +9,4 @@ An OrderBook simulator implemented in Python 3.
 - [orderBook.py](orderBook.py) - Class implementation of an order book containing all the relevant attributes and methods to initialize, update and print an order book for a product.
 
 ## Run
-* `python3 [main.py](orderBook.py)
+* `python3 [main.py](main.py)
